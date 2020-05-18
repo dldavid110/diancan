@@ -31,6 +31,15 @@
 
 <style scoped>
 	.wrapper{
+		width:100%;
+		height:100%;
 		border:solid 1px red;
+	}
+	.main{
+		width: 100%;
+		height:calc(100% - 70px);
+		
+		border:solid 1px green;
+		background-color: red;
 	}
 </style>
