@@ -39,6 +39,9 @@
 		width: 100%;
 		height:calc(100% - 70px);
 		border:solid 1px green;
-		background-color: red;
+		background-color: blue;
+		position:fixed;
+		top:35px;
+		left:35px;
 	}
 </style>
