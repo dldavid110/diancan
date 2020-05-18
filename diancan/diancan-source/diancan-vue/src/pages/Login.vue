@@ -37,11 +37,11 @@
 	}
 	.main{
 		width: 100%;
-		height:calc(100% - 70px);
+		height:calc(100% - 60px);
 		border:solid 1px green;
 		background-color: blue;
 		position:fixed;
-		top:35px;
-		left:35px;
+		top:30px;
+		left:0px;
 	}
 </style>
